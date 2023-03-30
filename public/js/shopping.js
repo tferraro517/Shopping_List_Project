@@ -80,9 +80,9 @@ const makeDropdownItem = (text, parent) => {
   parent.appendChild(listItem);
 };
 
-dropdownSelect.forEach((element) => {
-  makeDropdownItem(element, ul);
-});
+// dropdownSelect.forEach((element) => {
+//   makeDropdownItem(element, ul);
+// });
 
 dropdown.addEventListener("click", (event) => {
   event.preventDefault();
