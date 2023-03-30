@@ -11,7 +11,7 @@ This application is designed to use on a web browser.
 
 ## Usage
 
-A user can access the website via .
+A user can access the website via https://shopping-list.herokuapp.com/shoppingList.
 
 ## User Story
 As a User
@@ -25,7 +25,7 @@ when a user enters their account information requirements, then the user has cre
 When a user enters an item into the text form then the item appears in the need list.
 When a user is inactive then the session times out.
 
-Link to Heroku: 
+Link to Heroku: https://shopping-list.herokuapp.com/shoppingList
 Screenshot of active page: ![image](https://user-images.githubusercontent.com/117392154/228896374-ca1827a1-4759-4a35-82d0-1b841f9248b4.png)
 
 
